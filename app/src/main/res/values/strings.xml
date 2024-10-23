@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">eazly GO</string>
+    <string name="google_maps_key">AIzaSyBMu-PibwJcKvgh0lH4lNFKSfDHuGzIMw8</string>
+    <string name="default_notification_channel_id" translatable="true">YOUR CHANNEL ID</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">OPEN</string>
+    <string name="navigation_drawer_close">CLOSE</string>
+    <string name="remove_location_updates">Remove Location Update</string>
+    <string name="decline_call">Accept</string>
+    <string name="accept_call">Decline</string>
+
+    <string name="onesignal_notification_accent_color">00000000</string>
+    <string name="something_went_wrong_try_again">Something Went Wrong! Try Again…</string>
+    <string name="okay">Okay</string>
+    <string name="allow_your_location">Allow your location</string>
+    <string name="allow_your_gps">Allow your GPS</string>
+    <string name="we_will_need_your_location_to_n_give_you_better_experience">We will need to turn on your location to\n give you better experience.</string>
+    <string name="not_now">Not now</string>
+    <string name="we_will_need_your_camera_to_n_give_you_better_experience">We will need to turn on your camera to\n upload  delivery proof.</string>
+    <string name="err_empty">Should not be empty.</string>
+
+    <string name="sure_i_d_like_that">Sure, I\'d like that</string>
+    <string name="allow_your_camera">Allow your camera</string>
+    <string name="app_version">Version 3.0.7</string>
+    <string name="something_wrong_statement">Something went wrong....</string>
+    <string name="enter_your_mobile_number">Enter Your Mobile Number</string>
+    <string name="your_session_expired_please_login_again">Your session expired please login again</string>
+
+
+    <string name="enter_your_phone_number_to_continue">Enter your phone number to continue</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="Continue">Continue</string>
+    <string name="Submit">Submit</string>
+    <string name="we_have_sent_a_four_digit_otp_to_your_mobile_number">We have sent a four digit OTP to your mobile number.</string>
+    <string name="version_2_9_8">Version 2.9.8</string>
+    <string name="start_now">Start Now</string>
+    <string name="manage_orders">Manage Orders</string>
+    <string name="active">Active</string>
+    <string name="your_shop_is_now_online">Your shop is now Online</string>
+    <string name="you_have_6_pending_order_s">You Have 6 Pending Order(s)</string>
+    <string name="hi_marvel_studio">Hi Marvel Studio</string>
+    <string name="change_number"><u>Change your mobile number</u></string>
+    <string name="cash_collected">Cash collected</string>
+    <string name="cod">COD</string>
+    <string name="change_status_from_settings">Change status from <u>settings</u></string>
+    <string name="get_help">Get Help</string>
+    <string name="txt_collect_payment">Collect Payment</string>
+    <string name="txt_continue_shipment">Continue Shipment</string>
+    <string name="txt_start_shipment">Start Shipment</string>
+    <string name="txt_this_is_a_cash_on_delivery_order">This is a Cash On Delivery order</string>
+    <string name="txt_online">Online</string>
+    <string name="txt_offline">Offline</string>
+    <string name="txt_order_history">Order History</string>
+    <string name="txt_profile">Profile</string>
+    <string name="txt_call_support">Call Support</string>
+    <string name="txt_log_out">Log Out</string>
+    <string name="search_in_shipments">Search in shipments</string>
+    <string name="alert">Alert</string>
+    <string name="_401">401</string>
+    <string name="ok">OK</string>
+    <string name="upload_picture">Upload a Picture</string>
+    <string name="cash_collection">Cash Collection</string>
+    <string name="paid_online">Paid Online</string>
+    <string name="completed_the_order">Congratulations! You have successfully completed \n the order!</string>
+    <string name="map_id">AIzaSyDpeMGQV5I2tOkgkUL4TQhdyHIbn68pSF0</string>
+    <string name="want_to_logout">Are you sure you want to Logout?</string>
+    <string name="sure">Sure</string>
+    <string name="shipment_id">Shipment ID</string>
+    <string name="delivered_on">Delivered On</string>
+    <string name="no_data_found">No  new Order</string>
+    <string name="to_pick_up">To Pick up</string>
+    <string name="all_shipment_items">All Shipment Items</string>
+    <string name="to_deliver">To Deliver</string>
+    <string name="delivered">Delivered</string>
+    <string name="want_open_camera">Do you want to open camera?</string>
+    <string name="reached_location">Reached Location</string>
+    <string name="product_list">Product List</string>
+    <string name="internet_msg">No internet available</string>
+    <string name="order_id">Order ID</string>
+    <string name="payment_mode">payment Mode</string>
+
+    <!--Add New String-->
+    <string name="welcome_to_eazly_rider_app">Welcome to Eazly GO!</string>
+    <string name="country_code">+91</string>
+    <string name="mobile_number">Enter phone number</string>
+    <string name="phone_number_validation">Please enter a valid phone number.</string>
+    <string name="by_clicking_on_continue_you_are_agreeing_to_our_terms_of_service_and_privacy_policy_title">By clicking on “Continue” you are agreeing to our Terms of Service and Privacy Policy.</string>
+    <string name="terms"><![CDATA[<font color=#818181>By clicking on “continue” you are agreeing to our </font>]]>&lt;br /&gt;<![CDATA[<font color=#004749>Terms of Service</font>]]> and <![CDATA[<font color=#004749>Privacy Policy.</font>]]></string>
+    <string name="verification_code">Verification code</string>
+    <string name="otp_validation"> Please enter the OTP.</string>
+    <string name="otp_validation_invalid">Invalid OTP. Please re-enter the correct OTP.</string>
+    <string name="didn_t_get_the_otp_resend_otp_in_10s">Didn’t get the OTP? Resend OTP in 10s</string>
+    <string name="enter_the_4_digit_otp_sent_on_9988776655">Enter the 4-digit OTP sent on 9988776655</string>
+    <string name="next">Verify</string>
+    <string name="resend_otp_in"> Resend OTP in </string>
+    <string name="get_the_otp">Didn’t get the OTP? </string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="please_enter_mobile_number">Please Enter Phone Number</string>
+    <string name="please_enter_valid_number">Please Enter Valid Phone Number</string>
+    <string name="hi_nagarajan">Hi, Nagarajan!</string>
+    <string name="online">Online</string>
+
+    <string name="status_text">Change status from <u>Settings</u></string>
+    <string name="yet_to_start">Yet to Start</string>
+    <string name="_58_min_left">58 min left</string>
+    <string name="order_id_10969">Order ID # 10969</string>
+    <string name="marvel_studio">Marvel Studio</string>
+    <string name="j8cw_vj6_gali_number_3_rajiv_vihar_khora_colony_sector_62a_noida_uttar_pradesh_201309">J8CW+VJ6, Gali Number 3, Rajiv Vihar, Khora Colony, Sector 62A, Noida, Uttar Pradesh 201309</string>
+    <string name="_10">0</string>
+    <string name="_5000">₹. 5000</string>
+    <string name="kamal_singh">Kamal Singh</string>
+
+
+    <string name="eazly_star_app_collects_location_data_to_enable_rider_delivery_partner_location_even_when_the_app_is_closed_or_not_in_use">Eazly Go app collects location data to enable Rider (Delivery Partner) location even when the app is closed or not in use.</string>
+    <string name="accept">Accept</string>
+    <string name="total_items_s_5">Total Items(s) : 5</string>
+    <string name="select_all">Select All</string>
+    <string name="pickup_order">Pickup Order</string>
+
+    <string name="by_clicking_">By clicking on “continue” you are agreeing to our   \n</string>
+    <string name="terms_of_service">  Terms of Service   </string>
+    <string name="privacy_policy">   Privacy Policy.  </string>
+    <string name="returnOrder">Return Orders</string>
+    <string name="full_name">Full name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="this_is_a_cash_on_delivery_order">This is a Cash On Delivery order</string>
+    <string name="reviews">Reviews</string>
+    <string name="tony_shah">Tony Shah</string>
+    <string name="cash_settlement">Cash Settlement</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="rs_1000">Rs. 1000</string>
+    <string name="rs_5000">₹. 5000</string>
+    <string name="returned_to_merchant">Returned to merchant</string>
+    <string name="order_history">Order History</string>
+    <string name="deliver_order">Deliver Order</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="return_order">Return Order</string>
+    <string name="invalid_date">Invalid date format</string>
+    <string name="date_is_format">Date format is incorrect</string>
+    <string name="an_unexpected">An unexpected error occurred</string>
+    <string name="please_select_date">Please Select Date</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="dd_mm_yyyy">dd-MM-yyyy</string>
+    <string name="yyyy_mm_dd">yyyy-MM-dd</string>
+
+    <string name="no_more_shipment">No more shipments for the same address\n in your bag</string>
+    <string name="no_more_order">No more order for the same address\n in your bag</string>
+    <string name="helpLineNumber">18002570369</string>
+    <string name="payment_received">Payment received</string>
+    <string name="title_activity_welcome">Welcome</string>
+
+</resources>
